@@ -1,0 +1,177 @@
+
+
+
+----------------------
+
+
+-------  INTERACTIVE TESTS ---------------------------
+Table of {int:double}
+[0]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+collision: 0
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :r
+9176:689 has been INSERTED.
+[0]
+[1]
+[2] 9176:0689(2)
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+collision: 0
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :i
+>>29:21
+29:21 has been INSERTED.
+[0]
+[1]
+[2] 9176:0689(2)
+[3]
+[4]
+[5]
+[6]
+[7] 0029:0021(7)
+[8]
+[9]
+[10]
+collision: 0
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :r
+1417:6793 has been INSERTED.
+[0]
+[1]
+[2] 9176:0689(2)
+[3]
+[4]
+[5]
+[6]
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 0
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :r
+8135:2735 has been INSERTED.
+[0]
+[1]
+[2] 9176:0689(2)
+[3]
+[4]
+[5]
+[6] 8135:2735(6)
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 0
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :r
+5245:9843 has been INSERTED.
+[0]
+[1]
+[2] 9176:0689(2)
+[3] 5245:9843(9)*
+[4]
+[5]
+[6] 8135:2735(6)*
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 2
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :i
+>>298:921
+298:921 has been INSERTED.
+[0]
+[1] 0298:0921(1)
+[2] 9176:0689(2)
+[3] 5245:9843(9)*
+[4]
+[5]
+[6] 8135:2735(6)*
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 2
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :d
+>>298
+298 was REMOVED.
+[0]
+[1] - - - -
+[2] 9176:0689(2)
+[3] 5245:9843(9)*
+[4]
+[5]
+[6] 8135:2735(6)*
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 2
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :?
+>>29
+29 EXISTS.
+[0]
+[1] - - - -
+[2] 9176:0689(2)
+[3] 5245:9843(9)*
+[4]
+[5]
+[6] 8135:2735(6)*
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 2
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :s
+Table Size: 5
+[0]
+[1] - - - -
+[2] 9176:0689(2)
+[3] 5245:9843(9)*
+[4]
+[5]
+[6] 8135:2735(6)*
+[7] 0029:0021(7)
+[8]
+[9] 1417:6793(9)
+[10]
+collision: 2
+
+
+[S]ize() [I]nsert [R]andom [D]elete [F]ind value [?]exists?   e[X]it  :x
+D O N E .
+
+
+
+---------------------------------
+Press <RETURN> to close this window...

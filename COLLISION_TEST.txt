@@ -1,0 +1,20 @@
+
+
+
+----------------------
+
+
+--------------- COLLISION TEST ----------------------
+[700] records inserted into open and double hash objects:
+open_hash collisions: 1816
+double_hash collisions: 744
+
+
+
+---------------------------------
+Press <RETURN> to close this window...
+
+
+
+
+

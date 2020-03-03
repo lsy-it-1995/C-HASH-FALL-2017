@@ -1,0 +1,28 @@
+
+
+
+----------------------
+
+
+--------------- TIME TEST --------------------------
+
+----------- Insertion  -------------------------------------
+open_hash:    collisons:  1234 time: 0.000000
+double_hash:  collisons:   693 time: 0.000000
+chained_hash: collisons:   N/A time: 0.000000
+
+----------- Searching for existing keys -------------------
+open_hash:    time: 0.000000
+double_hash:  time: 0.000000
+chained_hash: time: 0.000000
+
+----------- Searching for nonexistent keys -------------------
+open_hash:    time: 0.000000
+double_hash:  time: 0.000000
+chained_hash: time: 0.000000
+
+
+
+---------------------------------
+Press <RETURN> to close this window...
+v
